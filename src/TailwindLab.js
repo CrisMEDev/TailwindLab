@@ -4,6 +4,8 @@ import './styles/styles.scss';
 
 export const TailwindLab = () => {
   return (
-    <h1>Hola mundo</h1>
+    <div className='flex flex-col'>
+        Hola mundo
+    </div>
   )
 }
